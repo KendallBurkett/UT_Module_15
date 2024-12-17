@@ -71,20 +71,6 @@ The dashboard visually represents earthquake data with:
 * Real-time updates from USGS for recent earthquakes.
 ---
 
-## File Structure
-
-earthquake-visualization/
-│
-├── index.html           # Main HTML file
-├── static/
-│   ├── css/
-│   │   └── style.css    # Custom CSS styling
-│   └── js/
-│       └── logic.js     # JavaScript code for map and data visualization
-└── README.md            # Project documentation
-
----
-
 ## Author
 
 **Kendall Burkett**  
