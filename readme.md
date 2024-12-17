@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [File Structure](#file-structure)
 - [Author](#author)
 
 ---
