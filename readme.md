@@ -61,6 +61,10 @@ Earthquakes are displayed as circle markers on the map, with:
 
 2. **Setup**:
 - Clone this repository or download the project files.
+- Install dependencies (if needed):
+     ```bash
+     pip install -r requirements.txt
+     ```
 ---
 
 ## Results
