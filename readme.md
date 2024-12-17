@@ -55,23 +55,23 @@ Earthquakes are displayed as circle markers on the map, with:
 ## Installation
 
 1. **Prerequisites**:
-- Modern Web Browser (e.g., Chrome, Firefox, Edge)
-- Internet Connection
+   - Modern Web Browser (e.g., Chrome, Firefox, Edge)
+   - Internet Connection
 
 2. **Setup**:
-- Clone this repository or download the project files.
-- Install dependencies (if needed):
-     ```bash
+   - Clone this repository or download the project files.
+   - Install dependencies (if needed):
+```bash
      pip install -r requirements.txt
-     ```
+```
 ---
 
 ## Results
 
 The dashboard visually represents earthquake data with:
-* Larger circles for higher magnitude earthquakes.
-* Color-coded depths to distinguish shallow and deep earthquakes.
-* Real-time updates from USGS for recent earthquakes.
+  - Larger circles for higher magnitude earthquakes.
+  - Color-coded depths to distinguish shallow and deep earthquakes.
+  - Real-time updates from USGS for recent earthquakes.
 ---
 
 ## Author
