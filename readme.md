@@ -1,6 +1,5 @@
 ## Leaflet
 ---
-
 # Earthquake Visualization Dashboard
 
 ## Table of Contents
