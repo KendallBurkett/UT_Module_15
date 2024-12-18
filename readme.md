@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Author](#author)
 
 ---
 
@@ -73,10 +72,3 @@ The dashboard visually represents earthquake data with:
   - Color-coded depths to distinguish shallow and deep earthquakes.
   - Real-time updates from USGS for recent earthquakes.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
